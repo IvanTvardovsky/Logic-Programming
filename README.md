@@ -1,2 +1,2 @@
-# Logic-Programming
-Prolog
+# Logic Programming on Prolog
+Third semester of MAI university
